@@ -42,15 +42,13 @@ Follow these steps to get Handy up and running on your machine:
 1. **Clone the Repository**: First, clone the Handy repository from GitHub to your local machine. You can do this by running the following command in your terminal:
 
    ```
-   git clone https://github.com/yourusername/handy.git
-   ```
+   git clone [https://github.com/singhtejpreet2004/Virtual-Mouse-App](https://github.com/singhtejpreet2004/Virtual-Mouse-App)
+   ```†
 
-   Replace `yourusername` with your GitHub username.
-
-2. **Navigate to the Project Directory**: Use the `cd` command to navigate into the `handy` directory:
+2. **Navigate to the Project Directory**: Use the `cd` command to navigate into the `Virtual-Mouse-App` directory:
 
    ```
-   cd handy
+   cd Virtual-Mouse-App
    ```
 
 3. **Install Dependencies**: Handy requires several Python libraries to run. Install them using pip:
