@@ -26,14 +26,6 @@ The project uses the following Python libraries:
 | PyAutoGUI | 0.9.53 | Automating mouse movements and clicks |
 | PyQt5 | 5.15.4 | Creating the GUI |
 
-## Tech Stack
-
-The project is entirely written in Python, using the following packages:
-
-- **OpenCV (cv2)**: Used for capturing video from the webcam, flipping the video frames, and drawing on the frames.
-- **MediaPipe**: Used for detecting the hand and its landmarks in each video frame.
-- **PyAutoGUI**: Used for controlling the mouse based on the position of the hand landmarks.
-- **PyQt5**: Used for creating the GUI of the application, which includes start and stop buttons, an instructions button, and an image label to display the video from the webcam.
 
 ## How to Run Handy on Your Personal Computer
 
@@ -43,7 +35,7 @@ Follow these steps to get Handy up and running on your machine:
 
    ```
    git clone https://github.com/singhtejpreet2004/Virtual-Mouse-App
-   ```†
+   ```
 
 2. **Navigate to the Project Directory**: Use the `cd` command to navigate into the `Virtual-Mouse-App` directory:
 
